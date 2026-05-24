@@ -1,0 +1,10 @@
+.venv/
+config/.env
+data/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.jupyter/
+*.ipynb_checkpoints
